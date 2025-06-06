@@ -1,0 +1,7 @@
+Estado: A
+Código: A01
+Nome da Cidade: São Paulo
+População: 12325000
+Área: 1521.11
+PIB: 699.28
+Número de Pontos Turísticos: 50
